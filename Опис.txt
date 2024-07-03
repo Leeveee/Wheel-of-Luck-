@@ -1,0 +1,1 @@
+Основний клас PickerWheel який використовує додатковий WheelPieceService, моделлю виступає Config WheelPiecesSetting з якого беруться всі дані про предмет і передаються в PieceView для відресовки на екрані.
